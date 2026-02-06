@@ -44,7 +44,7 @@ We welcome contributions! Please follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Authors
-- **Your Name** - *Initial work* - [YourGitHubProfile](https://github.com/YourGitHubProfile)
+- **Prince Raj** - *Initial work* - [YourGitHubProfile](https://github.com/octabomai)
 
 ## Acknowledgments
-- The AI technologies utilized in this project draw from various open-source projects and libraries, which are acknowledged here.
+- In this project draw from various open-source projects and libraries, which are acknowledged here.
